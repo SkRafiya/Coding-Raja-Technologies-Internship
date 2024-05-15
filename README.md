@@ -1,0 +1,1 @@
+This respository contains two projects. A music player website and a Online Resume builder website. Languages used are html,css,javascript. This 2 projects are part of my Coding Raja Technologies internship
